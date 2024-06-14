@@ -10,6 +10,11 @@ body{
 
 
 @media screen and  (min-width: 1024px) {
+    /*Estilos para tablets */
+}
+@media screen and (min-width:1728px) {
+    
+}
 
     body{
         background-color: rgb(199, 0, 0);
