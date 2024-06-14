@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+
+
+
+@media screen and  (min-width: 1024px) {
+
+    body{
+        background-color: rgb(199, 0, 0);
+    }
+     
+}
