@@ -9,12 +9,12 @@ body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     background-color: #f4f4f4;
-    color: #333;
+    color: #000000;
 }
 
 header {
-    background: #4CAF50;
-    color: #fff;
+    background: #000000;
+    color: #000000;
     padding: 1rem 0;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -61,7 +61,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #FFEB3B;
+    color: #000000;
 }
 
 .burger {
@@ -75,7 +75,7 @@ nav ul li a:hover {
 .burger div {
     width: 25px;
     height: 3px;
-    background: #fff;
+    background: #000000;
     transition: all 0.3s ease;
 }
 
@@ -95,7 +95,7 @@ section {
     padding: 3rem 1rem;
     max-width: 1200px;
     margin: 5rem auto 2rem;
-    background: #fff;
+    background: #000000;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
     border-radius: 8px;
 }
@@ -103,12 +103,12 @@ section {
 section h2 {
     margin-bottom: 1rem;
     font-size: 2.5rem;
-    color: #4CAF50;
+    color: #000000;
 }
 
 #home {
     text-align: center;
-    background-color: #e0f7fa;
+    background-color: #000000;
     color: #333;
     padding-top: 6rem;
     padding-bottom: 6rem;
@@ -159,8 +159,8 @@ section h2 {
 
 .btn {
     display: inline-block;
-    background: #FF5722;
-    color: #fff;
+    background: #000000;
+    color: #000000;
     padding: 0.75rem 1.5rem;
     text-decoration: none;
     border-radius: 5px;
@@ -168,7 +168,7 @@ section h2 {
 }
 
 .btn:hover {
-    background: #E64A19;
+    background: #000000;
 }
 
 .services-grid {
@@ -178,7 +178,7 @@ section h2 {
 }
 
 .service {
-    background: #f9f9f9;
+    background: #000000;
     padding: 2rem;
     text-align: center;
     border-radius: 8px;
@@ -192,13 +192,13 @@ section h2 {
 
 .service i {
     font-size: 3rem;
-    color: #FF5722;
+    color: #000000;
     margin-bottom: 1rem;
 }
 
 .service h3 {
     font-size: 1.8rem;
-    color: #FF5722;
+    color: #000000;
     margin-bottom: 0.5rem;
 }
 
@@ -216,7 +216,7 @@ form input, form textarea {
 }
 
 form button {
-    background: #FF5722;
+    background: #000000;
     color: #fff;
     padding: 0.75rem 1.5rem;
     border: none;
@@ -226,11 +226,11 @@ form button {
 }
 
 form button:hover {
-    background: #E64A19;
+    background: #000000;
 }
 
 footer {
-    background: #4CAF50;
+    background: #000000;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
@@ -248,7 +248,7 @@ footer {
         top: 70px;
         right: 0;
         height: 100vh;
-        background: #4CAF50;
+        background: #000000;
         flex-direction: column;
         align-items: center;
         width: 100%;
