@@ -247,7 +247,6 @@ footer {
     margin-top: 2rem;
 }
 
-/* Responsividade */
 @media (max-width: 768px) {
     .burger {
         display: flex;
