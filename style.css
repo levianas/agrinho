@@ -89,13 +89,10 @@ nav ul li a:hover {
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-…        width: 80%;
+       width: 80%;
         margin: 0.5rem 0;
-    }
-}
- {
-    transform: rotate(-45deg) translate(-5px, 6px);
-}
+       transform: rotate(-45deg) translate(-5px, 6px);
+} 
 
 .burger.toggle .line2 {
     opacity: 0;
